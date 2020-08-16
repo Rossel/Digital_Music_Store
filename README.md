@@ -1,9 +1,6 @@
 # Digital_Music_Store
-SQL project analysing the database of an iTunes-like music store
 
-In this report we will be analzing a database for a *fictional* digital music shop, comparable to the iTunes Music store, called Chinook. Its management wants to obtain insights in its sales performance to further optimize its business strategy. 
-The central question being asked by Chinook's management is:
-
+In this notebook I analyse a SQL database for a *fictional* digital music shop, comparable to the iTunes Music store, called Chinook. Its management wants to obtain insights in its sales performance to further optimize its business strategy. The central question being asked by Chinook's management is
 **How can Chinook improve its performance and optimize its sales strategy?**
 
 In order to answer this question, and various sub questions, this report will cover the following topics:
