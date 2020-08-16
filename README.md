@@ -1,6 +1,6 @@
 # Digital_Music_Store
 
-In this notebook I analyse a SQL database for a *fictional* digital music shop, comparable to the iTunes Music store, called Chinook. Its management wants to obtain insights in its sales performance to further optimize its business strategy. The central question being asked by Chinook's management is
+In this notebook I analyse a SQL database for a *fictional* digital music shop called Chinook, which can be compared to the iTunes Music store. Its management wants to obtain insights in its sales performance to further optimize its business strategy. The central question being asked by Chinook's management is
 **How can Chinook improve its performance and optimize its sales strategy?**
 
 In order to answer this question, and various sub questions, this report will cover the following topics:
